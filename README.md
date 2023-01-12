@@ -1,7 +1,8 @@
 # Stock_Market_predictions
 
+## Goal
 
-# Project Title
+Utilizing the graph of my choice, plot the daily returns of MMAX across the whole time.
 
 The data that it is accompanied with is actual stock data with fictitious dates and tickers. 
 To give me exogenous aspects to consider, I have have eliminated the previous day's closing price but kept other genuine stock data up to that point. 
@@ -48,7 +49,5 @@ Facebook Prophet:
 Price prediction $96.7757
 Prophet package is developed by Facebook for forecasting time series data based on an additive model incorporating annual, monthly, and daily seasonality, as well as holiday impacts. It works best with time series with substantial seasonal effects and data from several seasons.
 
-## Goal(s)
 
-Utilizing the graph of my choice, plot the daily returns of MMAX across the whole time.
 
